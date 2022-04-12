@@ -19,3 +19,35 @@
 > It is possible to make math operations inside `printf` command
 > 
 > Variables must start with letters or underlines and finish with letters, underlines or numbers.
+
+### April 12th:
+> Arithmetic operators:
+> 
+> > Unary: + -
+> > Binary: + - * / %
+> 
+> Atribution operators:
+> > var = expr
+> 
+> Compound operators:
+> > a = a + b -> a+=b
+> > a = a - b -> a-=b
+> > a = a * b -> a*=b
+> > a = a / b -> a/=b
+> 
+> Increment and Decrement operators:
+> > a = a + 1 -> a += 1 -> a++
+> > a = a - 1 -> a -= 1 -> a--
+> 
+> All those operations can be made as an argument (eg. inside printf)
+> > In a++ case, if used as "a++" it will first use "a" as argument and after do the incement
+> > In ++a case, it will use "a" already incremented as argument
+>
+> Relational (bool):
+> >  < > <= => ==
+>
+> Equalty and Inequalty: == !=
+>
+> Booleans:
+> > Binary: && (and) || (or)
+> > Unary: ! (not)
