@@ -51,3 +51,15 @@
 > Booleans:
 > > Binary: && (and) || (or)
 > > Unary: ! (not)
+
+### May 10th
+> int types | bits | printf
+> > char 1 
+> > short int 2 %hd
+> > int 4 %d
+> > long int 8 %ld
+> > long long int 8 %lld
+> Float types | bits | printf
+> > float %f
+> > double %lf
+> > long double %llf
